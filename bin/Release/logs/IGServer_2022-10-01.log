@@ -1,0 +1,5 @@
+2022-10-01 00:00:00.0194 IGService.IGService WriteCartOneHourSP500 
+2022-10-01 00:00:00.0507 IGService.IGService WriteCartOneHour 
+2022-10-01 00:55:00.0177 IGService.IGService WriteCartOneMinVIX 
+2022-10-01 01:00:01.1500 IGService.IGService WriteCartOneHour 
+2022-10-01 10:22:08.8670 IGService.IGService OnStop 

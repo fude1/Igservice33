@@ -1,0 +1,6 @@
+2022-09-08 19:34:53.0946 IGService.IGService Avvio 
+2022-09-08 19:34:53.1046 IGService.IGService _timerStartConnession avviato 
+2022-09-08 19:34:53.4426 IGService.IGService RegisterPricesSubscription 
+2022-09-08 19:34:53.4536 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-09-08 19:34:53.4536 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-09-08 19:34:53.4536 IGService.IGService Create Server 

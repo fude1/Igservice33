@@ -1,0 +1,465 @@
+2022-08-14 00:00:13.6190 IGService.IGService OnStop 
+2022-08-14 00:00:20.3361 IGService.Server 
+ 
+2022-08-14 00:00:20.4896 IGService.Server 
+ 
+2022-08-14 00:00:20.7426 IGService.Server 
+ 
+2022-08-14 00:00:22.6748 IGService.Server 
+ 
+2022-08-14 00:00:22.9513 IGService.Server 
+ 
+2022-08-14 00:00:23.1429 IGService.Server 
+ 
+2022-08-14 00:00:23.4086 IGService.Server 
+ 
+2022-08-14 00:00:23.7221 IGService.Server 
+ 
+2022-08-14 00:00:24.6355 IGService.Server 
+ 
+2022-08-14 00:00:25.0521 IGService.Server 
+ 
+2022-08-14 00:00:25.7205 IGService.Server 
+ 
+2022-08-14 00:00:25.9372 IGService.Server 
+ 
+2022-08-14 00:00:32.5750 IGService.IGService Avvio 
+2022-08-14 00:00:32.5750 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:00:32.5750 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:00:32.5750 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:00:32.5750 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:00:32.5750 IGService.IGService Create Server 
+2022-08-14 00:00:32.6220 IGService.IGService OnStart 
+2022-08-14 00:00:32.6220 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:01:32.6386 IGService.IGService Attempting login 
+2022-08-14 00:01:32.6386 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:01:33.3402 IGService.IGService ---------------------------------- 
+2022-08-14 00:01:33.3402 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:01:33.3402 IGService.IGService Available: 7691.34 
+2022-08-14 00:01:33.3402 IGService.IGService Balance :10433.21 
+2022-08-14 00:01:33.3402 IGService.IGService Deposit :1727.38 
+2022-08-14 00:01:33.3402 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:01:33.3402 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:01:33.3402 IGService.IGService ---------------------------------- 
+2022-08-14 00:01:33.3402 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:01:33.3402 IGService.IGService establishing datastream connection 
+2022-08-14 00:01:35.1534 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:01:35.4591 IGService.IGService WriteCartOneHour 
+2022-08-14 00:01:35.5167 IGService.IGService WriteCartOneHour 
+2022-08-14 00:03:40.4799 IGService.IGService OnStop 
+2022-08-14 00:03:43.1072 IGService.IGService Avvio 
+2022-08-14 00:03:43.1072 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:03:43.1072 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:03:43.1072 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:03:43.1072 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:03:43.1072 IGService.IGService Create Server 
+2022-08-14 00:03:43.1512 IGService.IGService OnStart 
+2022-08-14 00:03:43.1512 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:04:43.1632 IGService.IGService Attempting login 
+2022-08-14 00:04:43.1632 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:04:43.8723 IGService.IGService ---------------------------------- 
+2022-08-14 00:04:43.8723 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:04:43.8723 IGService.IGService Available: 7691.34 
+2022-08-14 00:04:43.8723 IGService.IGService Balance :10433.21 
+2022-08-14 00:04:43.8723 IGService.IGService Deposit :1727.38 
+2022-08-14 00:04:43.8723 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:04:43.8723 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:04:43.8723 IGService.IGService ---------------------------------- 
+2022-08-14 00:04:43.8723 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:04:43.8723 IGService.IGService establishing datastream connection 
+2022-08-14 00:04:44.6829 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:04:45.0316 IGService.IGService WriteCartOneHour 
+2022-08-14 00:04:45.0606 IGService.IGService WriteCartOneHour 
+2022-08-14 00:07:20.7411 IGService.IGService OnStop 
+2022-08-14 00:07:23.2363 IGService.IGService Avvio 
+2022-08-14 00:07:23.2403 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:07:23.2403 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:07:23.2403 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:07:23.2403 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:07:23.2403 IGService.IGService Create Server 
+2022-08-14 00:07:23.2833 IGService.IGService OnStart 
+2022-08-14 00:07:23.2873 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:08:23.2962 IGService.IGService Attempting login 
+2022-08-14 00:08:23.2962 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:08:23.9331 IGService.IGService ---------------------------------- 
+2022-08-14 00:08:23.9331 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:08:23.9331 IGService.IGService Available: 7691.34 
+2022-08-14 00:08:23.9331 IGService.IGService Balance :10433.21 
+2022-08-14 00:08:23.9331 IGService.IGService Deposit :1727.38 
+2022-08-14 00:08:23.9331 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:08:23.9331 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:08:23.9331 IGService.IGService ---------------------------------- 
+2022-08-14 00:08:23.9331 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:08:23.9331 IGService.IGService establishing datastream connection 
+2022-08-14 00:08:25.3253 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:08:26.8888 IGService.IGService WriteCartOneHour 
+2022-08-14 00:08:26.9480 IGService.IGService WriteCartOneHour 
+2022-08-14 00:09:40.0515 IGService.IGService OnStop 
+2022-08-14 00:09:47.5935 IGService.IGService Avvio 
+2022-08-14 00:09:47.5935 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:09:47.5935 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:09:47.5995 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:09:47.5995 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:09:47.5995 IGService.IGService Create Server 
+2022-08-14 00:09:47.6395 IGService.IGService OnStart 
+2022-08-14 00:09:47.6395 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:10:47.6515 IGService.IGService Attempting login 
+2022-08-14 00:10:47.6515 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:10:48.2685 IGService.IGService ---------------------------------- 
+2022-08-14 00:10:48.2685 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:10:48.2685 IGService.IGService Available: 7691.34 
+2022-08-14 00:10:48.2685 IGService.IGService Balance :10433.21 
+2022-08-14 00:10:48.2685 IGService.IGService Deposit :1727.38 
+2022-08-14 00:10:48.2685 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:10:48.2685 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:10:48.2685 IGService.IGService ---------------------------------- 
+2022-08-14 00:10:48.2685 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:10:48.2685 IGService.IGService establishing datastream connection 
+2022-08-14 00:10:50.1654 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:10:52.2291 IGService.IGService WriteCartOneHour 
+2022-08-14 00:10:52.2861 IGService.IGService WriteCartOneHour 
+2022-08-14 00:12:46.9422 IGService.IGService OnStop 
+2022-08-14 00:12:49.6097 IGService.IGService Avvio 
+2022-08-14 00:12:49.6147 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:12:49.6147 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:12:49.6147 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:12:49.6147 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:12:49.6147 IGService.IGService Create Server 
+2022-08-14 00:12:49.6567 IGService.IGService OnStart 
+2022-08-14 00:12:49.6567 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:13:49.6692 IGService.IGService Attempting login 
+2022-08-14 00:13:49.6692 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:13:50.3069 IGService.IGService ---------------------------------- 
+2022-08-14 00:13:50.3069 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:13:50.3069 IGService.IGService Available: 7691.34 
+2022-08-14 00:13:50.3069 IGService.IGService Balance :10433.21 
+2022-08-14 00:13:50.3069 IGService.IGService Deposit :1727.38 
+2022-08-14 00:13:50.3069 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:13:50.3069 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:13:50.3069 IGService.IGService ---------------------------------- 
+2022-08-14 00:13:50.3069 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:13:50.3069 IGService.IGService establishing datastream connection 
+2022-08-14 00:13:51.1854 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:13:53.2448 IGService.IGService WriteCartOneHour 
+2022-08-14 00:13:53.3028 IGService.IGService WriteCartOneHour 
+2022-08-14 00:15:05.8223 IGService.IGService OnStop 
+2022-08-14 00:15:10.5924 IGService.IGService Avvio 
+2022-08-14 00:15:10.5924 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:15:10.5924 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:15:10.5994 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:15:10.5994 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:15:10.5994 IGService.IGService Create Server 
+2022-08-14 00:15:10.6354 IGService.IGService OnStart 
+2022-08-14 00:15:10.6354 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:16:10.6492 IGService.IGService Attempting login 
+2022-08-14 00:16:10.6492 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:16:11.3055 IGService.IGService ---------------------------------- 
+2022-08-14 00:16:11.3055 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:16:11.3055 IGService.IGService Available: 7691.34 
+2022-08-14 00:16:11.3055 IGService.IGService Balance :10433.21 
+2022-08-14 00:16:11.3055 IGService.IGService Deposit :1727.38 
+2022-08-14 00:16:11.3055 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:16:11.3055 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:16:11.3055 IGService.IGService ---------------------------------- 
+2022-08-14 00:16:11.3055 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:16:11.3055 IGService.IGService establishing datastream connection 
+2022-08-14 00:16:13.1635 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:16:13.5202 IGService.IGService WriteCartOneHour 
+2022-08-14 00:16:13.5492 IGService.IGService WriteCartOneHour 
+2022-08-14 00:16:43.8116 IGService.IGService OnStop 
+2022-08-14 00:16:46.9829 IGService.IGService Avvio 
+2022-08-14 00:16:46.9829 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:16:46.9889 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:16:46.9889 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:16:46.9889 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:16:46.9889 IGService.IGService Create Server 
+2022-08-14 00:16:47.0269 IGService.IGService OnStart 
+2022-08-14 00:16:47.0269 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:17:47.0370 IGService.IGService Attempting login 
+2022-08-14 00:17:47.0370 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:17:47.6616 IGService.IGService ---------------------------------- 
+2022-08-14 00:17:47.6616 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:17:47.6616 IGService.IGService Available: 7691.34 
+2022-08-14 00:17:47.6616 IGService.IGService Balance :10433.21 
+2022-08-14 00:17:47.6616 IGService.IGService Deposit :1727.38 
+2022-08-14 00:17:47.6616 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:17:47.6616 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:17:47.6616 IGService.IGService ---------------------------------- 
+2022-08-14 00:17:47.6616 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:17:47.6616 IGService.IGService establishing datastream connection 
+2022-08-14 00:17:49.5657 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:17:49.8822 IGService.IGService WriteCartOneHour 
+2022-08-14 00:17:49.9402 IGService.IGService WriteCartOneHour 
+2022-08-14 00:18:21.7491 IGService.IGService OnStop 
+2022-08-14 00:18:25.8137 IGService.IGService Avvio 
+2022-08-14 00:18:25.8137 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:18:25.8137 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:18:25.8137 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:18:25.8137 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:18:25.8137 IGService.IGService Create Server 
+2022-08-14 00:18:25.8637 IGService.IGService OnStart 
+2022-08-14 00:18:25.8637 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:18:45.7419 IGService.IGService OnStop 
+2022-08-14 00:18:49.0782 IGService.IGService Avvio 
+2022-08-14 00:18:49.0822 IGService.IGService _timerStartConnession avviato 
+2022-08-14 00:18:49.0822 IGService.IGService RegisterPricesSubscription 
+2022-08-14 00:18:49.0822 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 00:18:49.0822 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 00:18:49.0822 IGService.IGService Create Server 
+2022-08-14 00:18:49.1182 IGService.IGService OnStart 
+2022-08-14 00:18:49.1182 IGService.IGService ExecuteThreadClientData 
+2022-08-14 00:19:04.9355 IGService.Server INFO
+ 
+2022-08-14 00:19:04.9355 IGService.Server Send reply: INFOOK
+ 
+2022-08-14 00:19:49.1290 IGService.IGService Attempting login 
+2022-08-14 00:19:49.1290 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 00:19:49.7577 IGService.IGService ---------------------------------- 
+2022-08-14 00:19:49.7577 IGService.IGService AccountId: DVPOO 
+2022-08-14 00:19:49.7577 IGService.IGService Available: 7691.34 
+2022-08-14 00:19:49.7577 IGService.IGService Balance :10433.21 
+2022-08-14 00:19:49.7577 IGService.IGService Deposit :1727.38 
+2022-08-14 00:19:49.7577 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 00:19:49.7577 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 00:19:49.7577 IGService.IGService ---------------------------------- 
+2022-08-14 00:19:49.7577 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 00:19:49.7577 IGService.IGService establishing datastream connection 
+2022-08-14 00:19:51.6616 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 00:19:51.9836 IGService.IGService WriteCartOneHour 
+2022-08-14 00:19:52.0436 IGService.IGService WriteCartOneHour 
+2022-08-14 00:21:48.1457 IGService.Server INFO
+ 
+2022-08-14 00:21:48.1457 IGService.Server Send reply: INFOOK
+ 
+2022-08-14 00:21:48.1457 IGService.Server Send reply: INFO;10433.21;7691.34;1727.38;-1014.49
+ 
+2022-08-14 00:26:35.7173 IGService.Server PIPPO
+ 
+2022-08-14 08:47:20.7879 IGService.IGService OnStop 
+2022-08-14 08:56:32.0690 IGService.IGService Avvio 
+2022-08-14 08:56:32.0690 IGService.IGService _timerStartConnession avviato 
+2022-08-14 08:56:32.0840 IGService.IGService RegisterPricesSubscription 
+2022-08-14 08:56:32.0840 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 08:56:32.0840 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 08:56:32.0840 IGService.IGService Create Server 
+2022-08-14 08:56:32.1671 IGService.IGService OnStart 
+2022-08-14 08:56:32.1828 IGService.IGService ExecuteThreadClientData 
+2022-08-14 08:56:48.6732 IGService.Server INFO
+ 
+2022-08-14 08:56:48.6732 IGService.Server Send reply: INFOOK
+ 
+2022-08-14 08:57:32.2377 IGService.IGService Attempting login 
+2022-08-14 08:57:32.2377 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 08:57:33.3471 IGService.IGService ---------------------------------- 
+2022-08-14 08:57:33.3471 IGService.IGService AccountId: DVPOO 
+2022-08-14 08:57:33.3471 IGService.IGService Available: 7691.34 
+2022-08-14 08:57:33.3471 IGService.IGService Balance :10433.21 
+2022-08-14 08:57:33.3471 IGService.IGService Deposit :1727.38 
+2022-08-14 08:57:33.3471 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 08:57:33.3471 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 08:57:33.3471 IGService.IGService ---------------------------------- 
+2022-08-14 08:57:33.3471 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 08:57:33.3471 IGService.IGService establishing datastream connection 
+2022-08-14 08:57:35.2534 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 08:57:37.3315 IGService.IGService WriteCartOneHour 
+2022-08-14 08:57:37.3940 IGService.IGService WriteCartOneHour 
+2022-08-14 09:05:30.8347 IGService.IGService OnStop 
+2022-08-14 09:05:33.6468 IGService.IGService Avvio 
+2022-08-14 09:05:33.6468 IGService.IGService _timerStartConnession avviato 
+2022-08-14 09:05:33.6468 IGService.IGService RegisterPricesSubscription 
+2022-08-14 09:05:33.6468 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 09:05:33.6468 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 09:05:33.6468 IGService.IGService Create Server 
+2022-08-14 09:05:33.6937 IGService.IGService OnStart 
+2022-08-14 09:05:33.6937 IGService.IGService ExecuteThreadClientData 
+2022-08-14 09:06:12.2719 IGService.IGService OnStop 
+2022-08-14 09:06:16.7874 IGService.IGService Avvio 
+2022-08-14 09:06:16.7874 IGService.IGService _timerStartConnession avviato 
+2022-08-14 09:06:16.7874 IGService.IGService RegisterPricesSubscription 
+2022-08-14 09:06:16.7874 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 09:06:16.7874 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 09:06:16.7874 IGService.IGService Create Server 
+2022-08-14 09:06:16.8343 IGService.IGService OnStart 
+2022-08-14 09:06:16.8343 IGService.IGService ExecuteThreadClientData 
+2022-08-14 09:07:16.8656 IGService.IGService Attempting login 
+2022-08-14 09:07:16.8656 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 09:07:17.6312 IGService.IGService ---------------------------------- 
+2022-08-14 09:07:17.6312 IGService.IGService AccountId: DVPOO 
+2022-08-14 09:07:17.6312 IGService.IGService Available: 7691.34 
+2022-08-14 09:07:17.6312 IGService.IGService Balance :10433.21 
+2022-08-14 09:07:17.6312 IGService.IGService Deposit :1727.38 
+2022-08-14 09:07:17.6312 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 09:07:17.6312 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 09:07:17.6312 IGService.IGService ---------------------------------- 
+2022-08-14 09:07:17.6312 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 09:07:17.6312 IGService.IGService establishing datastream connection 
+2022-08-14 09:07:19.8812 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 09:07:21.4593 IGService.IGService WriteCartOneHour 
+2022-08-14 09:07:21.5218 IGService.IGService WriteCartOneHour 
+2022-08-14 09:07:56.7875 IGService.Server Receiving message from application System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at IGService.Server.Start() in C:\FUDE\git\IGService\Server.cs:line 63
+2022-08-14 09:07:56.8031 IGService.Server Socket not connected. Reconnect 
+2022-08-14 11:27:57.0486 IGService.IGService OnStop 
+2022-08-14 11:30:03.5660 IGService.IGService Avvio 
+2022-08-14 11:30:03.5660 IGService.IGService _timerStartConnession avviato 
+2022-08-14 11:30:03.7066 IGService.IGService RegisterPricesSubscription 
+2022-08-14 11:30:03.7066 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 11:30:03.7066 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 11:30:03.7066 IGService.IGService Create Server 
+2022-08-14 11:30:03.7847 IGService.IGService OnStart 
+2022-08-14 11:30:03.8004 IGService.IGService ExecuteThreadClientData 
+2022-08-14 11:30:37.5816 IGService.Server fgdfdgdfg
+ 
+2022-08-14 11:30:37.5816 IGService.Server Send reply: DEFAULT
+ 
+2022-08-14 11:30:39.3785 IGService.Server gdfgd
+ 
+2022-08-14 11:30:39.3785 IGService.Server Send reply: DEFAULT
+ 
+2022-08-14 11:31:03.8675 IGService.IGService Attempting login 
+2022-08-14 11:31:03.8675 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 11:31:05.1522 IGService.IGService ---------------------------------- 
+2022-08-14 11:31:05.1522 IGService.IGService AccountId: DVPOO 
+2022-08-14 11:31:05.1522 IGService.IGService Available: 7691.34 
+2022-08-14 11:31:05.1522 IGService.IGService Balance :10433.21 
+2022-08-14 11:31:05.1522 IGService.IGService Deposit :1727.38 
+2022-08-14 11:31:05.1522 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 11:31:05.1522 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 11:31:05.1522 IGService.IGService ---------------------------------- 
+2022-08-14 11:31:05.1522 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 11:31:05.1522 IGService.IGService establishing datastream connection 
+2022-08-14 11:31:07.3941 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 11:31:09.4878 IGService.IGService WriteCartOneHour 
+2022-08-14 11:31:09.5191 IGService.IGService WriteCartOneHour 
+2022-08-14 11:31:11.6285 IGService.IGService OnStop 
+2022-08-14 11:31:14.3003 IGService.IGService Avvio 
+2022-08-14 11:31:14.3159 IGService.IGService _timerStartConnession avviato 
+2022-08-14 11:31:14.3159 IGService.IGService RegisterPricesSubscription 
+2022-08-14 11:31:14.3159 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 11:31:14.3159 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 11:31:14.3159 IGService.IGService Create Server 
+2022-08-14 11:31:14.3628 IGService.IGService OnStart 
+2022-08-14 11:31:14.3628 IGService.IGService ExecuteThreadClientData 
+2022-08-14 11:32:14.4253 IGService.IGService Attempting login 
+2022-08-14 11:32:14.4253 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 11:32:15.0659 IGService.IGService ---------------------------------- 
+2022-08-14 11:32:15.0659 IGService.IGService AccountId: DVPOO 
+2022-08-14 11:32:15.0659 IGService.IGService Available: 7691.34 
+2022-08-14 11:32:15.0659 IGService.IGService Balance :10433.21 
+2022-08-14 11:32:15.0659 IGService.IGService Deposit :1727.38 
+2022-08-14 11:32:15.0659 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 11:32:15.0659 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 11:32:15.0659 IGService.IGService ---------------------------------- 
+2022-08-14 11:32:15.0659 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 11:32:15.0659 IGService.IGService establishing datastream connection 
+2022-08-14 11:32:15.9529 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 11:32:16.3003 IGService.IGService WriteCartOneHour 
+2022-08-14 11:32:16.3628 IGService.IGService WriteCartOneHour 
+2022-08-14 11:32:17.9409 IGService.IGService OnStop 
+2022-08-14 11:32:30.5972 IGService.IGService Avvio 
+2022-08-14 11:32:30.5972 IGService.IGService _timerStartConnession avviato 
+2022-08-14 11:32:30.5972 IGService.IGService RegisterPricesSubscription 
+2022-08-14 11:32:30.5972 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 11:32:30.5972 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 11:32:30.5972 IGService.IGService Create Server 
+2022-08-14 11:32:30.6440 IGService.IGService OnStart 
+2022-08-14 11:32:30.6440 IGService.IGService ExecuteThreadClientData 
+2022-08-14 11:33:30.6911 IGService.IGService Attempting login 
+2022-08-14 11:33:30.6911 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 11:33:31.3317 IGService.IGService ---------------------------------- 
+2022-08-14 11:33:31.3317 IGService.IGService AccountId: DVPOO 
+2022-08-14 11:33:31.3317 IGService.IGService Available: 7691.34 
+2022-08-14 11:33:31.3317 IGService.IGService Balance :10433.21 
+2022-08-14 11:33:31.3317 IGService.IGService Deposit :1727.38 
+2022-08-14 11:33:31.3317 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 11:33:31.3317 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 11:33:31.3317 IGService.IGService ---------------------------------- 
+2022-08-14 11:33:31.3317 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 11:33:31.3317 IGService.IGService establishing datastream connection 
+2022-08-14 11:33:33.2223 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 11:33:33.5504 IGService.IGService WriteCartOneHour 
+2022-08-14 11:33:33.6129 IGService.IGService WriteCartOneHour 
+2022-08-14 11:33:56.3317 IGService.Server Receiving message from application System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at IGService.Server.Start() in C:\FUDE\git\IGService\Server.cs:line 63
+2022-08-14 11:33:56.3473 IGService.Server Socket not connected. Reconnect 
+2022-08-14 11:48:50.1341 IGService.IGService OnStop 
+2022-08-14 11:48:53.0972 IGService.IGService Avvio 
+2022-08-14 11:48:53.0972 IGService.IGService _timerStartConnession avviato 
+2022-08-14 11:48:53.0972 IGService.IGService RegisterPricesSubscription 
+2022-08-14 11:48:53.0972 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 11:48:53.0972 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 11:48:53.0972 IGService.IGService Create Server 
+2022-08-14 11:48:53.1441 IGService.IGService OnStart 
+2022-08-14 11:48:53.1441 IGService.IGService ExecuteThreadClientData 
+2022-08-14 11:49:53.2065 IGService.IGService Attempting login 
+2022-08-14 11:49:53.2065 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 11:49:53.8315 IGService.IGService ---------------------------------- 
+2022-08-14 11:49:53.8315 IGService.IGService AccountId: DVPOO 
+2022-08-14 11:49:53.8315 IGService.IGService Available: 7691.34 
+2022-08-14 11:49:53.8315 IGService.IGService Balance :10433.21 
+2022-08-14 11:49:53.8315 IGService.IGService Deposit :1727.38 
+2022-08-14 11:49:53.8315 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 11:49:53.8315 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 11:49:53.8315 IGService.IGService ---------------------------------- 
+2022-08-14 11:49:53.8315 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 11:49:53.8315 IGService.IGService establishing datastream connection 
+2022-08-14 11:49:55.7222 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 11:49:57.8472 IGService.IGService WriteCartOneHour 
+2022-08-14 11:49:57.8628 IGService.IGService WriteCartOneHour 
+2022-08-14 11:51:20.9098 IGService.IGService OnStop 
+2022-08-14 11:51:23.2690 IGService.IGService Avvio 
+2022-08-14 11:51:23.2690 IGService.IGService _timerStartConnession avviato 
+2022-08-14 11:51:23.2846 IGService.IGService RegisterPricesSubscription 
+2022-08-14 11:51:23.2846 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 11:51:23.2846 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 11:51:23.2846 IGService.IGService Create Server 
+2022-08-14 11:51:23.3159 IGService.IGService OnStart 
+2022-08-14 11:51:23.3159 IGService.IGService ExecuteThreadClientData 
+2022-08-14 11:52:23.3784 IGService.IGService Attempting login 
+2022-08-14 11:52:23.3784 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 11:52:24.0193 IGService.IGService ---------------------------------- 
+2022-08-14 11:52:24.0193 IGService.IGService AccountId: DVPOO 
+2022-08-14 11:52:24.0193 IGService.IGService Available: 7691.34 
+2022-08-14 11:52:24.0193 IGService.IGService Balance :10433.21 
+2022-08-14 11:52:24.0193 IGService.IGService Deposit :1727.38 
+2022-08-14 11:52:24.0193 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 11:52:24.0193 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 11:52:24.0193 IGService.IGService ---------------------------------- 
+2022-08-14 11:52:24.0193 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 11:52:24.0193 IGService.IGService establishing datastream connection 
+2022-08-14 11:52:24.8940 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 11:52:26.9721 IGService.IGService WriteCartOneHour 
+2022-08-14 11:52:27.0346 IGService.IGService WriteCartOneHour 
+2022-08-14 11:52:27.9878 IGService.IGService OnStop 
+2022-08-14 11:52:31.0034 IGService.IGService Avvio 
+2022-08-14 11:52:31.0034 IGService.IGService _timerStartConnession avviato 
+2022-08-14 11:52:31.0034 IGService.IGService RegisterPricesSubscription 
+2022-08-14 11:52:31.0190 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-08-14 11:52:31.0190 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-08-14 11:52:31.0190 IGService.IGService Create Server 
+2022-08-14 11:52:31.0503 IGService.IGService OnStart 
+2022-08-14 11:52:31.0503 IGService.IGService ExecuteThreadClientData 
+2022-08-14 11:53:31.1127 IGService.IGService Attempting login 
+2022-08-14 11:53:31.1127 IGService.IGService User=deambrosis1964 is attempting to login to environment=live 
+2022-08-14 11:53:31.7221 IGService.IGService ---------------------------------- 
+2022-08-14 11:53:31.7221 IGService.IGService AccountId: DVPOO 
+2022-08-14 11:53:31.7221 IGService.IGService Available: 7691.34 
+2022-08-14 11:53:31.7221 IGService.IGService Balance :10433.21 
+2022-08-14 11:53:31.7221 IGService.IGService Deposit :1727.38 
+2022-08-14 11:53:31.7221 IGService.IGService ProfitLoss :-1014.49 
+2022-08-14 11:53:31.7221 IGService.IGService Endpoint: https://apd.marketdatasystems.com 
+2022-08-14 11:53:31.7221 IGService.IGService ---------------------------------- 
+2022-08-14 11:53:31.7221 IGService.IGService Logged in, current account: DVPOO 
+2022-08-14 11:53:31.7221 IGService.IGService establishing datastream connection 
+2022-08-14 11:53:34.6284 IGService.IGService Connecting to Lightstreamer. Endpoint =https://apd.marketdatasystems.com 
+2022-08-14 11:53:36.2065 IGService.IGService WriteCartOneHour 
+2022-08-14 11:53:36.2690 IGService.IGService WriteCartOneHour 
+2022-08-14 14:24:50.7771 IGService.IGService OnStop 

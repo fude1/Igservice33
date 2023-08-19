@@ -1,0 +1,17 @@
+diff a/IGService.cs b/IGService.cs	(rejected hunks)
+@@ -620,10 +620,11 @@
+             position.guaranteedStop = false;
+             position.orderType = "MARKET";
+             position.size = size;
+-            position.stopDistance = stopDistance;
+-            position.trailingStop = true;
+-            position.trailingStopIncrement = trailingStep;
+-            position.limitDistance = limitDistance;
++            position.stopDistance = null;
++            position.trailingStop = false;
++            position.trailingStopIncrement = null;
++            position.limitDistance = null;
++            position.limitLevel = null;
+             int nRetry = 3;
+          
+             while (nRetry > 0)

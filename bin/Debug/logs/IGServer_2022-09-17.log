@@ -1,0 +1,25 @@
+2022-09-17 14:35:24.9546 IGService.IGService Avvio 
+2022-09-17 14:35:24.9626 IGService.IGService _timerStartConnession avviato 
+2022-09-17 14:35:25.4236 IGService.IGService RegisterPricesSubscription 
+2022-09-17 14:35:25.4236 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-09-17 14:35:25.4236 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-09-17 14:39:13.3061 IGService.IGService Avvio 
+2022-09-17 14:39:13.3151 IGService.IGService _timerStartConnession avviato 
+2022-09-17 14:39:13.7861 IGService.IGService RegisterPricesSubscription 
+2022-09-17 14:39:13.7861 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-09-17 14:39:13.7861 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-09-17 14:39:32.2731 IGService.IGService Avvio 
+2022-09-17 14:39:32.2891 IGService.IGService _timerStartConnession avviato 
+2022-09-17 14:39:32.3061 IGService.IGService RegisterPricesSubscription 
+2022-09-17 14:39:32.3091 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-09-17 14:39:32.3091 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-09-17 14:40:12.2988 IGService.IGService Avvio 
+2022-09-17 14:40:12.3078 IGService.IGService _timerStartConnession avviato 
+2022-09-17 14:40:12.6728 IGService.IGService RegisterPricesSubscription 
+2022-09-17 14:40:12.6728 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-09-17 14:40:12.6728 IGService.IGService RegisterAccountBalanceSubscriptions 
+2022-09-17 14:45:00.3112 IGService.IGService Avvio 
+2022-09-17 14:45:00.4172 IGService.IGService _timerStartConnession avviato 
+2022-09-17 14:45:00.8492 IGService.IGService RegisterPricesSubscription 
+2022-09-17 14:45:00.8492 IGService.IGService RegisterCandleOneHourSubscriptions 
+2022-09-17 14:45:00.8492 IGService.IGService RegisterAccountBalanceSubscriptions 

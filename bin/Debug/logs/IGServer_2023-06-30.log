@@ -1,0 +1,25 @@
+2023-06-30 21:32:13.3651 IGService.IGService Avvio 
+2023-06-30 21:32:15.6183 IGService.IGService _timerStartConnession avviato 
+2023-06-30 21:32:15.9594 IGService.IGService RegisterPricesSubscription 
+2023-06-30 21:32:16.7009 IGService.IGService RegisterAccountBalanceSubscriptions 
+2023-06-30 21:32:19.6929 IGService.IGService leggo file configYaml 
+2023-06-30 21:32:22.0859 IGService.IGService deserializer configYaml 
+2023-06-30 21:33:47.9533 IGService.IGService Avvio 
+2023-06-30 21:33:49.7053 IGService.IGService _timerStartConnession avviato 
+2023-06-30 21:33:50.6843 IGService.IGService RegisterPricesSubscription 
+2023-06-30 21:33:51.6476 IGService.IGService RegisterAccountBalanceSubscriptions 
+2023-06-30 21:33:53.6414 IGService.IGService leggo file configYaml 
+2023-06-30 21:33:55.9699 IGService.IGService deserializer configYaml 
+2023-06-30 21:35:45.0177 IGService.IGService Avvio 
+2023-06-30 21:35:46.8627 IGService.IGService _timerStartConnession avviato 
+2023-06-30 21:35:47.2047 IGService.IGService RegisterPricesSubscription 
+2023-06-30 21:35:49.0157 IGService.IGService RegisterAccountBalanceSubscriptions 
+2023-06-30 21:35:49.8437 IGService.IGService leggo file configYaml 
+2023-06-30 21:35:51.6517 IGService.IGService deserializer configYaml 
+2023-06-30 21:37:03.0309 IGService.IGService Avvio 
+2023-06-30 21:37:04.7869 IGService.IGService _timerStartConnession avviato 
+2023-06-30 21:37:04.9849 IGService.IGService RegisterPricesSubscription 
+2023-06-30 21:37:05.4239 IGService.IGService RegisterAccountBalanceSubscriptions 
+2023-06-30 21:37:06.3029 IGService.IGService leggo file configYaml 
+2023-06-30 21:37:08.4259 IGService.IGService deserializer configYaml 
+2023-06-30 21:37:13.3963 IGService.IGService Avvio servizio raccolta dati storici  

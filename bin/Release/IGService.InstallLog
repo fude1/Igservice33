@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\FUDE\git\IGService\bin\Release\IGService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\FUDE\git\IGService\bin\Release\IGService.InstallLog
+   assemblypath = C:\FUDE\git\IGService\bin\Release\IGService.exe
+Installing service IGService...
+Service IGService has been successfully installed.
+Creating EventLog source IGService in log Application...
+Committing assembly 'C:\FUDE\git\IGService\bin\Release\IGService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\FUDE\git\IGService\bin\Release\IGService.InstallLog
+   assemblypath = C:\FUDE\git\IGService\bin\Release\IGService.exe
+Installing assembly 'C:\FUDE\IGProgram\IGService\bin\Release\igservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\FUDE\IGProgram\IGService\bin\Release\igservice.InstallLog
+   assemblypath = C:\FUDE\IGProgram\IGService\bin\Release\igservice.exe
+Installing service IGService...
+Service IGService has been successfully installed.
+Creating EventLog source IGService in log Application...
+Committing assembly 'C:\FUDE\IGProgram\IGService\bin\Release\igservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\FUDE\IGProgram\IGService\bin\Release\igservice.InstallLog
+   assemblypath = C:\FUDE\IGProgram\IGService\bin\Release\igservice.exe
